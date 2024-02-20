@@ -1472,7 +1472,7 @@
 		height: 75vh;
 		position: relative;
 		background: #000;
-		background-image: url(codeWal.jpg);
+		background-image: url(../../images/codeWal.jpg);
 		background-size: cover;
 		background-attachment: fixed;
 		background-repeat: no-repeat;
